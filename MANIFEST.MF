@@ -1,9 +1,0 @@
-Manifest-Version: 1.0
-Main-Class: net.Andesite.AndesiteServer
-Implementation-Title: Andesite
-Implementation-Version: 1.8-111-g05dbe06-b96
-Implementation-Vendor: Andesite Project
-Specification-Title: Bukkit/Andekit
-Specification-Version: 1.8-R1-SNAPSHOT
-Specification-Vendor: Project-Andesite
-Sealed: true
